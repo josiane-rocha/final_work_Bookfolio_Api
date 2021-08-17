@@ -1,4 +1,4 @@
-![Bookfolio](Bookfolio.jpeg)
+![Bookfolio](Bookfolio.jpg)
 
 
 ## **🔖 Sobre**
